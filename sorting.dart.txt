@@ -1,0 +1,13 @@
+void main() {
+
+ List seta = ['John', 'Albert', 'Carol', 'Hooli'];
+
+seta.sort();
+print(seta);
+  
+  List setb = ['Joseph', 'Bash', 'Zita', 'Mariya'];
+
+setb.sort();
+print(setb);
+  
+}

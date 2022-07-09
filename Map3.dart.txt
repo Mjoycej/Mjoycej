@@ -1,0 +1,9 @@
+void main(){
+  Map type1 = {
+    'name' : 'joy'
+  };
+  Map type2 = Map.from(type1);
+  
+  print(type1);
+  print(type2);
+}

@@ -1,0 +1,10 @@
+void main() {
+
+   List numbers = [10, 30, 50, 40, 20];
+
+
+numbers.sort();
+print(numbers); 
+  
+}
+ 
